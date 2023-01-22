@@ -1,0 +1,73 @@
+<html>
+    <title>Game Lab</title>
+    <body style="font-family:sans-serif">
+        <header style="background-color:orange">
+            <img src="https://mars.algoritmika.org/uploads/2020/10/Frame%204_0_1603385959.svg" id="Lab" height="50px">
+            <a href="#games" style="color:black; font-size:20px">What kind of games do we make?</a>
+            <a href="#price" style="color:black; font-size:20px">Price list</a>
+        </header>
+        <main>
+            <h1 style="text-align:center; font-size:50px">Games Lab</h1>
+            <h2 style="text-align:center; font-size:40px">Game development studio</h2>
+            <img src="https://mars.algoritmika.org/uploads/2020/10/Vector_0_1603390263.png" width="100%">
+            <h2 style="font-size:40px" id="games">We work in different genres</h2>
+            <p style="font-size:20px">Do you want to make a game according to your scenario?
+            <br>Do you already have a game that needs to be finalized for mobile devices or for sale in another country?
+            <br>You can order the development or revision of the game from us.
+            <br>We work in a variety of genres: shooters, quests, logic and speed games.
+            <br>We also create games of mixed genres, games that develop useful skills: attention, memory, thinking</p>
+            <p>
+            <img src="https://mars.algoritmika.org/uploads/2020/10/maps-and-location_0_1603391752.png" width="200px">
+            <img src="https://mars.algoritmika.org/uploads/2020/10/shooter_0_1603391752.png" width="200px">
+            <img src="https://mars.algoritmika.org/uploads/2020/10/tetris_0_1603391752.png" width="200px">
+            </p>
+
+            <h2 style="font-size:40px" >Work process</h2>
+            <p style="font-size:20px">Creating a game is always a teamwork from several stages:
+            <br>plot planning, creation of graphic objects, programming, several stages of testing.
+            <br>A programmer, designer, screenwriter, sound engineer, editor, translator and many other specialists work on the game.</p>
+            <p>
+            <img src="https://mars.algoritmika.org/uploads/2020/10/creativity_0_1603392703.png" width="200px">
+            <img src="https://mars.algoritmika.org/uploads/2020/10/discussion_0_1603392703.png" width="200px">
+            <img src="https://mars.algoritmika.org/uploads/2020/10/game-development_0_1603392703.png" width="200px">
+            </p>
+
+            <h2 style="font-size:40px" id="price">Our offer</h2>
+            <table style="border: 1px solid; border-color: green; border-collapse: collapse;font-size:20px">
+                <tr>
+                    <td style="background-color: lightgreen;">Type of work</td>
+                    <td style="background-color: lightgreen;" >Details</td>
+                    <td style="background-color: lightgreen;">Price</td>
+                </tr>
+                <tr>
+                    <td style="background-color: lightgreen;">Porting</td>
+                    <td>Destop, Android, iOS</td>
+                    <td>from 700 dollars</td>
+                </tr>
+                <tr>
+                    <td style="background-color: lightgreen;">Localization</td>
+                    <td>Translation: texts,voices, graphics</td>
+                    <td>from 700 dollars</td>
+                </tr>
+                <tr>
+                    <td style="background-color: lightgreen;">Content making</td>
+                    <td>Sound, music,3D, 2D graphics</td>
+                    <td>from 700 dollars/h</td>
+                </tr>
+                <tr>
+                    <td style="background-color: lightgreen;">Turnkey game</td>
+                    <td>Discussion plotwith a screenwriter</td>
+                    <td>Negotiable</td>
+                </tr>
+                </table>
+            <h2 style="font-size:40px">Product popularity</h2>
+            <p style="font-size:20px" >Our games can be seen at city esports competitions:</p>
+            <img src="https://mars.algoritmika.org/uploads/2020/10/performance-3110696_1920%201%20(3)_0_1603395974.png" width="100%"
+        </main>
+        <footer style="background-color:orange">
+            <a href="#Lab" style="color:black; font-size:20px">To the top of the page</a>
+            <p>Address: Colorful city, Pixel str., 15.</p>
+            <p>Tel.:586-437</p>
+            </footer>
+    </body>
+</html>
